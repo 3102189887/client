@@ -11,7 +11,7 @@
       style="display: flex; background-color: white; width: 54%; border-radius: 5px; overflow: hidden"
     >
       <div style="flex: 1">
-        <img src="@/assets/16.jpg" alt="" style="width: 450px;height: 400px" />
+        <img src="@/assets/img/16.png" alt="" style="width: 450px;height: 400px" />
       </div>
       <div
         style="flex: 1; display: flex; align-items: center; justify-content: center"
@@ -65,7 +65,7 @@
               >登 录</el-button
             >
           </el-form-item>
-          <a href="http://www.java1234.com/a/bysj/javaweb/" target='_blank'><font color=red>Java1234收藏整理</font></a>
+      
 
         </el-form>
       </div>

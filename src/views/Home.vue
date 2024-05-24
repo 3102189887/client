@@ -1,7 +1,6 @@
 <template>
   <div>
     <h2>欢迎使用教务管理(课程管理)系统</h2>
-<h2><a href="http://www.java1234.com/a/bysj/javaweb/" target='_blank'><font color=red>Java1234收藏整理</font></a></h2>
 
     <el-col :span="16">
       <div class="fater-welcome-panel"></div>
