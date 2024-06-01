@@ -29,6 +29,8 @@ java1234  123456
 ![image](https://github.com/ILoveCAmille/client/assets/93418879/185d3e67-cd5c-4042-9f27-8868f99dc6e3)
 
 6.nginx配置
+
+
 user  www www;
 worker_processes auto;
 error_log  /www/wwwlogs/nginx_error.log  crit;
